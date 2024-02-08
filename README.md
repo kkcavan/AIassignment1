@@ -2,6 +2,7 @@
 
 A short project by Alessio Musciagna 17105884 and Kamil Klimczak 19382973
 
+The report as well as all the plots can be found in the word doc file in this report, or if you click here [REPORT](CT421 Project 1.docx)
 
 
 
