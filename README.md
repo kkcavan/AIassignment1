@@ -2,7 +2,7 @@
 
 A short project by Alessio Musciagna 17105884 and Kamil Klimczak 19382973
 
-The report as well as all the plots can be found in the word doc file in this report, or if you click here. The file must be downloaded as there are click down headers. [REPORT](CT421Project1.pdf)
+The report as well as all the plots can be found in the word doc file in this report, or if you click here. The graphs and results are located under each respective section [REPORT](CT421Project1.pdf)
 
 
 
